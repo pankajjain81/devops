@@ -1,1 +1,1 @@
-"this is file A"   version2
+"this is file A"   version2 added to github
